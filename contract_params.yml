@@ -5,3 +5,6 @@ parties:
 project:
   objective: Build a generative AI system capable of ingesting legal documents (such as
     briefs) and identify logical errors in them.
+terms:
+  developer: Developer
+  client: Client
