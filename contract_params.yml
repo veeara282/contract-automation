@@ -1,0 +1,7 @@
+template: project_term_sheet
+parties:
+  developer: Activate Impact Systems, LLC
+  client: Legal Impact for Chickens
+project:
+  objective: Build a generative AI system capable of ingesting legal documents (such as
+    briefs) and identify logical errors in them.
